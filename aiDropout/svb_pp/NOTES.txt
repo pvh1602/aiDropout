@@ -1,0 +1,2 @@
+rho = 1 is svb model
+rho < 1 is svb-pp model

@@ -1,0 +1,8 @@
+n_term: 18155
+n_infer: 100
+learning_rate: 0.01
+alpha: 0.01
+num_topic: 100
+batch_size: 2000
+num_test: 1
+class: 57 54 75 22 
