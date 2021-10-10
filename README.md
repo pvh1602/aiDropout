@@ -26,5 +26,5 @@ cd svb
 # svb-pp rho <= 1
 python run_svb.py [rho] [times]
 ```
-## Notice
+## Note
 The dataset here is News Aggregator and is used for concept drift setting
