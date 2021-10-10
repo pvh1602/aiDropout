@@ -13,6 +13,7 @@ numpy
 ```sh
 cd aidropout
 python run_dropout.py [sigma] [rate] [times] [type_model] [num_sampling] [temperature] [epoches] [iters]
+# python run_dropout.py 1 1 1 B 1 0.01 20 5
 
 cd idropout
 python run_dropout.py [sigma] [rate] [times] [type_model] [iters]
